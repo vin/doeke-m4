@@ -1,0 +1,4 @@
+cores 2
+def_res 800 600
+max_iter 10000
+
