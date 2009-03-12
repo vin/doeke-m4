@@ -1,4 +1,5 @@
 LDFLAGS=-lSDL
+CXXFLAGS=-Wall -Werror
 
 sources = $(wildcard *.cpp)
 
